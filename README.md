@@ -4,4 +4,4 @@ Política de privacidad de la app **MyRepLog**, en español e inglés. Última a
 
 Privacy policy of the **MyRepLog** app, in Spanish and English. Last updated: October 12, 2026.
 
-Página web / Web page: https://juliosimonjuan-code.github.io/myreplog-privacidad/
+Página web / Web page: https://saetabislabs.github.io/myreplog-privacidad/
